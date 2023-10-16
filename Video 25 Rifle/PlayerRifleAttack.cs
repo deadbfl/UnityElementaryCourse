@@ -9,7 +9,6 @@ public class PlayerRifleAttack : MonoBehaviour
     [SerializeField] private GameObject bullet;
     [SerializeField] private Transform bulletSpawnPoint;
 
-    [SerializeField] private float targetTime = 1;
     [SerializeField] private float bulletSpawnTimer = 1;
 
     private bool isShooting;
@@ -28,7 +27,7 @@ public class PlayerRifleAttack : MonoBehaviour
         {
             Instantiate(bullet, bulletSpawnPoint.position, bulletSpawnPoint.rotation);
 
-            bulletSpawnTimer = targetTime;
+            bulletSpawnTimer = 1;
         }
     }
 }
