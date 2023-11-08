@@ -1,0 +1,497 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1699380383507380, "dur":1839, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699380383509229, "dur":78, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1699380383509337, "dur":24, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1699380383509362, "dur":636, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1699380383510028, "dur":560, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699380383510588, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699380383808684, "dur":254, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699380383808938, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699380383808946, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699380383808949, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699380383808952, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699380383808954, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699380383808958, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699380383808959, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699380383808963, "dur":0, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699380383808963, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699380383808967, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699380383808968, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699380383808972, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699380383808973, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699380383808976, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699380383808977, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699380383808981, "dur":0, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699380383808982, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699380383808985, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699380383808986, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699380383808990, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699380383808991, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699380383808994, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699380383808995, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699380383808999, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699380383809000, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699380383809003, "dur":0, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699380383809003, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699380383809007, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699380383809008, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699380383809011, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699380383809012, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699380383809016, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699380383809023, "dur":1, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699380383809044, "dur":1255, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1699380383510146, "dur":448, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699380383510595, "dur":3786, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699380383514401, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1699380383514405, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699380383514496, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1699380383514504, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699380383515271, "dur":2386, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1699380383517659, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1699380383517737, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699380383518297, "dur":1061, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1699380383519402, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699380383519485, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699380383519743, "dur":1862, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699380383521681, "dur":139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":1, "ts":1699380383521825, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699380383521835, "dur":2775, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":1, "ts":1699380383524750, "dur":252, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":1, "ts":1699380383525011, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699380383526474, "dur":7350, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":1, "ts":1699380383533894, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699380383533919, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699380383533926, "dur":2430, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699380383536389, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699380383536414, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699380383536424, "dur":2314, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699380383538788, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699380383538848, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699380383538857, "dur":3112, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699380383541987, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699380383542004, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699380383542010, "dur":2577, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699380383544610, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699380383544629, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699380383544636, "dur":4944, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699380383549603, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699380383549623, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699380383549633, "dur":4505, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699380383554155, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699380383554172, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699380383554179, "dur":3980, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699380383558186, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699380383558221, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699380383558232, "dur":4925, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699380383563178, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699380383563200, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699380383563207, "dur":3038, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699380383566261, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699380383566301, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699380383566312, "dur":5040, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699380383571368, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699380383571383, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699380383571409, "dur":3015, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699380383574441, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":1, "ts":1699380383574457, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699380383574533, "dur":1741, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":1, "ts":1699380383576302, "dur":3013, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1699380383579322, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699380383579335, "dur":1746, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1699380383581098, "dur":150, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1699380383581250, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699380383581255, "dur":2850, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1699380383584123, "dur":224550, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1699380383510176, "dur":424, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1699380383510601, "dur":3785, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1699380383514401, "dur":280, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1699380383514684, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1699380383561896, "dur":2379, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1699380383564398, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":2, "ts":1699380383564438, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1699380383564450, "dur":4404, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":2, "ts":1699380383568870, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":2, "ts":1699380383568885, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1699380383568892, "dur":5726, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":2, "ts":1699380383574636, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":2, "ts":1699380383574654, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1699380383574660, "dur":5545, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":2, "ts":1699380383580221, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/level0" }}
+,{ "pid":12345, "tid":2, "ts":1699380383580234, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1699380383580239, "dur":3918, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/level0" }}
+,{ "pid":12345, "tid":2, "ts":1699380383584179, "dur":224509, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699380383510166, "dur":430, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699380383510596, "dur":3793, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699380383514402, "dur":215, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1699380383514621, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699380383522756, "dur":1310, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1699380383524122, "dur":1277, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course.exe" }}
+,{ "pid":12345, "tid":3, "ts":1699380383525404, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699380383525418, "dur":2327, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course.exe" }}
+,{ "pid":12345, "tid":3, "ts":1699380383527767, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699380383527807, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699380383527867, "dur":2170, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699380383530057, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699380383530078, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699380383530085, "dur":3523, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699380383533626, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699380383533652, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699380383533658, "dur":2843, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699380383536517, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699380383536535, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699380383536541, "dur":2623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699380383539190, "dur":172326, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699380383711522, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699380383711532, "dur":1989, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699380383713558, "dur":95126, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699380383510194, "dur":411, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699380383510605, "dur":3780, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699380383514402, "dur":219, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1699380383514625, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699380383523783, "dur":3318, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1699380383527249, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699380383527295, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699380383527780, "dur":2062, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699380383529865, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699380383529888, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699380383529898, "dur":4443, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699380383534361, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699380383534388, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699380383534395, "dur":2766, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699380383537191, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699380383537219, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699380383537227, "dur":2477, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699380383539723, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699380383539756, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699380383539763, "dur":2120, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699380383541898, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699380383541977, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699380383541984, "dur":4248, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699380383546257, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699380383546339, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699380383546351, "dur":5700, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699380383552072, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699380383552092, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699380383552100, "dur":4493, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699380383556609, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699380383556626, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699380383556633, "dur":5258, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699380383562104, "dur":78823, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699380383640931, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699380383640938, "dur":1228, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699380383642191, "dur":166488, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1699380383510217, "dur":392, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1699380383510609, "dur":3774, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1699380383514402, "dur":280, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1699380383514713, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1699380383562910, "dur":1672, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1699380383564639, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1699380383564662, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1699380383564668, "dur":5331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1699380383570038, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1699380383570067, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1699380383570079, "dur":3731, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1699380383573836, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1699380383573855, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1699380383573867, "dur":6999, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1699380383580884, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":5, "ts":1699380383580900, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1699380383580906, "dur":3555, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":5, "ts":1699380383584494, "dur":224190, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1699380383510245, "dur":369, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1699380383510614, "dur":3779, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1699380383514401, "dur":236, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1699380383514645, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1699380383542674, "dur":1657, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1699380383544393, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1699380383544414, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1699380383544421, "dur":3738, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1699380383548184, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1699380383548206, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1699380383548217, "dur":7461, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1699380383555727, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1699380383555747, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1699380383555755, "dur":4147, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1699380383559920, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1699380383559934, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1699380383559940, "dur":6093, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1699380383566089, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":6, "ts":1699380383566110, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1699380383566120, "dur":5462, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":6, "ts":1699380383571600, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":6, "ts":1699380383571617, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1699380383571623, "dur":18191, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":6, "ts":1699380383589837, "dur":218842, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1699380383510265, "dur":353, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1699380383510618, "dur":3779, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1699380383514400, "dur":259, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1699380383514663, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1699380383542955, "dur":1977, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1699380383544994, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699380383545023, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1699380383545031, "dur":6708, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699380383551765, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699380383551805, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1699380383551834, "dur":5043, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699380383556897, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699380383556914, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1699380383556921, "dur":4906, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699380383561850, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699380383561869, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1699380383561876, "dur":5608, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699380383567543, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699380383567594, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1699380383567601, "dur":12374, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":7, "ts":1699380383580008, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/level0.resS" }}
+,{ "pid":12345, "tid":7, "ts":1699380383580046, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1699380383580051, "dur":4655, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/level0.resS" }}
+,{ "pid":12345, "tid":7, "ts":1699380383584742, "dur":223934, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1699380383510306, "dur":315, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1699380383510621, "dur":3770, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1699380383514399, "dur":204, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1699380383514606, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1699380383516575, "dur":1167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1699380383517784, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":8, "ts":1699380383517854, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1699380383517908, "dur":1576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":8, "ts":1699380383519565, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699380383519692, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1699380383519814, "dur":8329, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699380383528204, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699380383528226, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1699380383528233, "dur":4307, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699380383532575, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699380383532612, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1699380383532650, "dur":2088, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699380383534770, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699380383534807, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1699380383534831, "dur":2443, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699380383537292, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699380383537311, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1699380383537317, "dur":2215, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699380383539550, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699380383539568, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1699380383539574, "dur":2010, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699380383541603, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699380383541619, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1699380383541625, "dur":2091, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699380383543742, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699380383543761, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1699380383543771, "dur":3365, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699380383547157, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699380383547177, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1699380383547185, "dur":4410, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699380383551625, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699380383551651, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1699380383551661, "dur":4798, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699380383556482, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699380383556500, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1699380383556508, "dur":3890, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699380383560430, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699380383560458, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1699380383560469, "dur":3618, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699380383564116, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699380383564146, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1699380383564157, "dur":3785, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699380383567964, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699380383567987, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1699380383568016, "dur":5836, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699380383573875, "dur":64751, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699380383638631, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1699380383638641, "dur":1446, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":8, "ts":1699380383640119, "dur":168568, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1699380383510329, "dur":294, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1699380383510623, "dur":3769, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1699380383514401, "dur":269, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1699380383514672, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1699380383561576, "dur":1432, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1699380383563069, "dur":122981, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":9, "ts":1699380383686054, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1699380383686091, "dur":1374, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":9, "ts":1699380383687479, "dur":121198, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1699380383510347, "dur":279, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1699380383510627, "dur":3787, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1699380383514414, "dur":260, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1699380383514676, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1699380383561616, "dur":1545, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1699380383563225, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":10, "ts":1699380383563271, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1699380383563281, "dur":4998, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":10, "ts":1699380383568298, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":10, "ts":1699380383568314, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1699380383568321, "dur":6556, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":10, "ts":1699380383574898, "dur":199, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":10, "ts":1699380383575100, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1699380383575107, "dur":2280, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":10, "ts":1699380383577415, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1699380383577437, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1699380383577449, "dur":1948, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1699380383579432, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/resources.assets" }}
+,{ "pid":12345, "tid":10, "ts":1699380383579463, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1699380383579472, "dur":3491, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/resources.assets" }}
+,{ "pid":12345, "tid":10, "ts":1699380383582987, "dur":225687, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1699380383510368, "dur":262, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1699380383510630, "dur":3764, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1699380383514400, "dur":260, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":11, "ts":1699380383514663, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1699380383559957, "dur":2191, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":11, "ts":1699380383562200, "dur":123638, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":11, "ts":1699380383685845, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1699380383685858, "dur":1504, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":11, "ts":1699380383687378, "dur":121302, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1699380383510390, "dur":243, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1699380383510633, "dur":3766, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1699380383514401, "dur":177, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1699380383514582, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1699380383516697, "dur":1099, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1699380383517836, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":12, "ts":1699380383517902, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1699380383517907, "dur":1821, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":12, "ts":1699380383519819, "dur":202, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":12, "ts":1699380383520023, "dur":32, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1699380383520059, "dur":21637, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":12, "ts":1699380383541752, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1699380383541777, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1699380383541783, "dur":3023, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1699380383544825, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1699380383544843, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1699380383544851, "dur":4897, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1699380383549773, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1699380383549796, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1699380383549803, "dur":4660, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1699380383554492, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":12, "ts":1699380383554520, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1699380383554531, "dur":4077, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":12, "ts":1699380383558624, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1699380383558640, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1699380383558646, "dur":4430, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1699380383563094, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":12, "ts":1699380383563112, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1699380383563119, "dur":4208, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":12, "ts":1699380383567359, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":12, "ts":1699380383567390, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1699380383567402, "dur":4274, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":12, "ts":1699380383571694, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":12, "ts":1699380383571713, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1699380383571719, "dur":9438, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":12, "ts":1699380383581174, "dur":227508, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1699380383510410, "dur":225, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1699380383510635, "dur":3767, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1699380383514402, "dur":260, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":13, "ts":1699380383514664, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1699380383560351, "dur":2683, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":13, "ts":1699380383563095, "dur":104245, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":13, "ts":1699380383667346, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1699380383667357, "dur":925, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":13, "ts":1699380383668296, "dur":140387, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1699380383510424, "dur":214, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1699380383510638, "dur":3774, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1699380383514413, "dur":220, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":14, "ts":1699380383514637, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1699380383523796, "dur":4295, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":14, "ts":1699380383528152, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1699380383528171, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1699380383528176, "dur":5351, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1699380383533547, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1699380383533574, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1699380383533581, "dur":2020, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1699380383535630, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1699380383535660, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1699380383535670, "dur":2814, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1699380383538510, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1699380383538544, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1699380383538553, "dur":2071, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1699380383540648, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1699380383540673, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1699380383540682, "dur":1886, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1699380383542591, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1699380383542611, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1699380383542619, "dur":3722, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1699380383546367, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1699380383546395, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1699380383546403, "dur":7342, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1699380383553765, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1699380383553783, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1699380383553790, "dur":5456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1699380383559263, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1699380383559281, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1699380383559288, "dur":6411, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1699380383565723, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":14, "ts":1699380383565742, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1699380383565748, "dur":5179, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":14, "ts":1699380383570944, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":14, "ts":1699380383571002, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1699380383571009, "dur":13578, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":14, "ts":1699380383584615, "dur":224075, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1699380383510445, "dur":196, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1699380383510642, "dur":3758, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1699380383514403, "dur":231, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":15, "ts":1699380383514637, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1699380383542050, "dur":1810, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":15, "ts":1699380383543931, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1699380383543953, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1699380383544028, "dur":3308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1699380383547352, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1699380383547370, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1699380383547377, "dur":5609, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1699380383552999, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1699380383553118, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1699380383553126, "dur":5264, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1699380383558436, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1699380383558465, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1699380383558568, "dur":4523, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1699380383563120, "dur":244536, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":15, "ts":1699380383807660, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1699380383807667, "dur":970, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":15, "ts":1699380383808653, "dur":0, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":15, "ts":1699380383808654, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1699380383510469, "dur":175, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1699380383510644, "dur":3743, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1699380383514402, "dur":223, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":16, "ts":1699380383514628, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1699380383523477, "dur":6975, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":16, "ts":1699380383532720, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1699380383532750, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1699380383532888, "dur":3033, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1699380383535947, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1699380383535973, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1699380383535983, "dur":2422, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1699380383538431, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1699380383538452, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1699380383538461, "dur":2148, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1699380383540640, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1699380383540667, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1699380383540677, "dur":1349, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1699380383542042, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1699380383542057, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1699380383542062, "dur":3610, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1699380383545694, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1699380383545715, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1699380383545723, "dur":4042, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1699380383549789, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1699380383549814, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1699380383549820, "dur":3550, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1699380383553387, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1699380383553405, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1699380383553411, "dur":3953, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1699380383557390, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1699380383557412, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1699380383557421, "dur":3631, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1699380383561083, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1699380383561114, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1699380383561222, "dur":4237, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1699380383565479, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":16, "ts":1699380383565500, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1699380383565507, "dur":5640, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":16, "ts":1699380383571164, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":16, "ts":1699380383571181, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1699380383571186, "dur":3245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":16, "ts":1699380383574447, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":16, "ts":1699380383574463, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1699380383574468, "dur":5741, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":16, "ts":1699380383580227, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":16, "ts":1699380383580243, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1699380383580248, "dur":3389, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/Build/UnityElementaryCourse/Elementary Course_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":16, "ts":1699380383583665, "dur":225010, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699380383811207, "dur":1917, "ph":"X", "name": "ProfilerWriteOutput" }
+,
